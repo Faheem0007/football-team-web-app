@@ -3,7 +3,7 @@ import { CityLogo } from "../ui/icons";
 
 const Footer = () => {
   return (
-    <footer class="bck_blue">
+    <footer className="bck_blue">
       <div className="footer_logo">
         <CityLogo link={true} linkTo="/" width="70px" height="70px" />
       </div>
